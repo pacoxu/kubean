@@ -31,6 +31,7 @@ kubean is a cluster lifecycle management tool based on [kubespray](https://githu
 [![kubean coverage](https://raw.githubusercontent.com/dasu23/e2ecoverage/master/badges/kubean/kubeanCoverage2.svg)](https://github.com/kubean-io/kubean/blob/main/docs/test/kubean_testcase.md)
 [![license](https://img.shields.io/badge/license-AL%202.0-blue)](https://github.com/kubean-io/kubean/blob/main/LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/kubean-io/kubean)](https://goreportcard.com/report/github.com/kubean-io/kubean)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fkubean.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fkubean?ref=badge_shield)
 
   </p>
 
@@ -87,3 +88,7 @@ We cloud use the example in folder `artifacts/demo` which uses online resources 
 - [CRD Outline](docs/zh/crds.md)
 - [Deploy cluster using SSH secret key method](docs/zh/sshkey_deploy_cluster.md)
 - [Cluster deployment for air gap environments](docs/offline.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpacoxu%2Fkubean.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpacoxu%2Fkubean?ref=badge_large)
